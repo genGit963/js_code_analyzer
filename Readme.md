@@ -1,6 +1,6 @@
 # JavaScript Code Analyzer
 
-Build a tool that analyzes JavaScript code for performance and style issues using static code analysis techniques.
+Building a tool that analyzes JavaScript code for performance and style issues using static code analysis techniques.
 
 Based on
 

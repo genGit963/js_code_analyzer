@@ -1,0 +1,19 @@
+{
+  "name": "js-analyzer",
+  "version": "1.0.0",
+  "description": "A tool that analyzes JavaScript code for performance and style issues using static code analysis techniques",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genGit963/js_code_analyzer.git"
+  },
+  "author": "genGit963",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genGit963/js_code_analyzer/issues"
+  },
+  "homepage": "https://github.com/genGit963/js_code_analyzer#readme"
+}
