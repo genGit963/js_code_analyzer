@@ -2,9 +2,11 @@
   "name": "js-analyzer",
   "version": "1.0.0",
   "description": "A tool that analyzes JavaScript code for performance and style issues using static code analysis techniques",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node bin/cli.js",
+    "test": "mocha tests/",
+    "lint": "eslint src/"
   },
   "repository": {
     "type": "git",
